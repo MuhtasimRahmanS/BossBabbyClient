@@ -1,0 +1,179 @@
+[
+    {
+      "_id": 1,
+      "name": "Air Max 90",
+      "details": "A classic running shoe with comfortable cushioning and a stylish design.",
+      "sizes": [
+        {
+          "size": 8,
+          "price": 120.00,
+          "stock": 10
+        },
+        {
+          "size": 9,
+          "price": 125.00,
+          "stock": 15
+        },
+        {
+          "size": 10,
+          "price": 130.00,
+          "stock": 5
+        }
+      ],
+      "images": [
+        "https://i.ibb.co/y4X04tS/328700781-515437567416211-6632840729289539143-n.jpg",
+        "https://i.ibb.co/y4X04tS/328700781-515437567416211-6632840729289539143-n.jpg",
+        "https://i.ibb.co/y4X04tS/328700781-515437567416211-6632840729289539143-n.jpg"
+      ]
+    },
+    {
+      "_id": 2,
+      "name": "Air Max 90",
+      "details": "A classic running shoe with comfortable cushioning and a stylish design.",
+      "sizes": [
+        {
+          "size": 8,
+          "price": 120.00,
+          "stock": 10
+        },
+        {
+          "size": 9,
+          "price": 125.00,
+          "stock": 15
+        },
+        {
+          "size": 10,
+          "price": 130.00,
+          "stock": 5
+        }
+      ],
+      "images": [
+        "https://i.ibb.co/NyhqFsZ/NWhite-21-30.jpg",
+        "https://i.ibb.co/NyhqFsZ/NWhite-21-30.jpg",
+        "https://i.ibb.co/NyhqFsZ/NWhite-21-30.jpg"
+      ]
+    },
+    {
+      "_id": 3,
+      "name": "Air Max 90",
+      "details": "A classic running shoe with comfortable cushioning and a stylish design.",
+      "sizes": [
+        {
+          "size": 8,
+          "price": 120.00,
+          "stock": 10
+        },
+        {
+          "size": 9,
+          "price": 125.00,
+          "stock": 15
+        },
+        {
+          "size": 10,
+          "price": 130.00,
+          "stock": 5
+        }
+      ],
+      "images": [
+        "https://i.ibb.co/LCS4xb4/329743460-838225040603940-6101437676764089734-n.jpg",
+        "https://i.ibb.co/LCS4xb4/329743460-838225040603940-6101437676764089734-n.jpg",
+        "https://i.ibb.co/LCS4xb4/329743460-838225040603940-6101437676764089734-n.jpg"
+      ]
+    },
+    {
+      "_id": 4,
+      "name": "Adidas Ultraboost",
+      "details": "High-performance running shoes with responsive cushioning and a lightweight feel.",
+      "sizes": [
+        {
+          "size": 8,
+          "price": 175.00,
+          "stock": 8
+        },
+        {
+          "size": 9,
+          "price": 180.00,
+          "stock": 12
+        },
+        {
+          "size": 10,
+          "price": 185.00,
+          "stock": 7
+        },
+        {
+          "size": 11,
+          "price": 190.00,
+          "stock": 10
+        }
+      ],
+      "images": [
+        "https://i.ibb.co/XVPHrBk/329777542-735929641498600-3718305368089744380-n.jpg",
+        "https://i.ibb.co/XVPHrBk/329777542-735929641498600-3718305368089744380-n.jpg",
+        "https://i.ibb.co/XVPHrBk/329777542-735929641498600-3718305368089744380-n.jpg"
+      ]
+    },
+    {
+      "_id": 5,
+      "name": "Adidas Ultraboost",
+      "details": "High-performance running shoes with responsive cushioning and a lightweight feel.",
+      "sizes": [
+        {
+          "size": 8,
+          "price": 175.00,
+          "stock": 8
+        },
+        {
+          "size": 9,
+          "price": 180.00,
+          "stock": 12
+        },
+        {
+          "size": 10,
+          "price": 185.00,
+          "stock": 7
+        },
+        {
+          "size": 11,
+          "price": 190.00,
+          "stock": 10
+        }
+      ],
+      "images": [
+        "https://i.ibb.co/GPxDJnh/432780904-728550852716626-6075305709170387702-n.jpg",
+        "https://i.ibb.co/GPxDJnh/432780904-728550852716626-6075305709170387702-n.jpg",
+        "https://i.ibb.co/GPxDJnh/432780904-728550852716626-6075305709170387702-n.jpg"
+      ]
+    },
+    {
+      "_id": 6,
+      "name": "Adidas Ultraboost",
+      "details": "High-performance running shoes with responsive cushioning and a lightweight feel.",
+      "sizes": [
+        {
+          "size": 8,
+          "price": 175.00,
+          "stock": 8
+        },
+        {
+          "size": 9,
+          "price": 180.00,
+          "stock": 12
+        },
+        {
+          "size": 10,
+          "price": 185.00,
+          "stock": 7
+        },
+        {
+          "size": 11,
+          "price": 190.00,
+          "stock": 10
+        }
+      ],
+      "images": [
+       "https://i.ibb.co/7SRtjX6/328139396-678898540701392-8818488746983292400-n.jpg",
+        "https://i.ibb.co/7SRtjX6/328139396-678898540701392-8818488746983292400-n.jpg",
+        "https://i.ibb.co/7SRtjX6/328139396-678898540701392-8818488746983292400-n.jpg"
+      ]
+    }
+  ]
